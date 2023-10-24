@@ -1,0 +1,6 @@
+[submodule "homework/1/chat-system/server"]
+	path = homework/1/chat-system/server
+	url = https://github.com/alvg77/java-simple-chat-server
+[submodule "homework/1/chat-system/client"]
+	path = homework/1/chat-system/client
+	url = https://github.com/alvg77/java-simple-chat-client
